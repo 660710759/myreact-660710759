@@ -160,5 +160,4 @@ function JSXExamples() {
         </div>
     );
 }
-
 export default JSXExamples;
